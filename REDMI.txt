@@ -1,0 +1,4 @@
+# Node Version : 22.11.0
+
+- Run server : npx expo start
+
